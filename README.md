@@ -92,7 +92,7 @@ This app uses a simple 4-digit PIN for demonstration purposes. In a real banking
 
 ## 👩‍💻 Author
 
-**Indhu B **  
+**Indhu B**  
 Full Stack Development Intern | Kumaraguru College of Liberal Arts and Science  
 📍 Coimbatore, Tamil Nadu
 
